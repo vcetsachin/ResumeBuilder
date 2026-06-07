@@ -1,0 +1,12 @@
+body {
+  background: #f5f7fa;
+}
+
+.auth-card {
+  max-width: 450px;
+  margin: 80px auto;
+  padding: 30px;
+  border-radius: 15px;
+  background: white;
+  box-shadow: 0 2px 20px rgba(0,0,0,0.1);
+}
