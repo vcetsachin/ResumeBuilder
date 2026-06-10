@@ -154,10 +154,4 @@ Add screenshots here:
 * Spring Boot Developer
 * React Developer
 
-GitHub: https://github.com/vcetsachin
-
----
-
-## ⭐ Support
-
-If you like this project, please give it a ⭐ on GitHub.
+GitHub: https://github.com/vcetsachin 
